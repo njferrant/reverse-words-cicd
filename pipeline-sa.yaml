@@ -3,4 +3,4 @@ kind: ServiceAccount
 metadata:
   name: reversewords-pipeline
 secrets:
-  - name: quay-user-pass
+  - name: gcr-io-credentials
