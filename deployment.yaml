@@ -12,5 +12,5 @@ spec:
         - name: RELEASE
           value: Stage Release
         - $patch: replace
-        image: us.gcr.io/nad-etq-lab/tekton-reversewords:847a0d1bc581c16942da1402f6466351bf77bcf4
+        image: gcr.io/nad-etq-lab/tekton-reversewords:847a0d1bc581c16942da1402f6466351bf77bcf4
         name: reverse-words
